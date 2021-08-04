@@ -1,0 +1,13 @@
+REQUIREMENTS GATHERING/ANALYSIS
+
+1.Connectivity - 24/7 connectivity
+2.Tracking - Tracking trains and which platforms they go through
+3.Plotting - Plotting the tracks on map
+4.Providing a monitoring interface for the end user - An application with map and overlay of plots with live locations of trains and their routes.
+5.An algorithm for better usage of tracks.
+6.Budget and time to deliver the product.
+7.Assembling a team.
+
+Software requirements:
+1.OS: windows, android, IOS.
+2.Database: Mongo DB.
