@@ -1,0 +1,5 @@
+Design 
+
+The data from the GPS on the train is sent to the satellite and then to the receiver in the railway station.
+The database and servers present in the railway station acquires and stores the data about the present location.
+The location is shared to the web server and then to the Client User Interface and finally the user gets to know the location of the train.
